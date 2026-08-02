@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am currently working on spring boot project.<br>I am regular solving DSA on Leetcode.<br>Currently learning Spring Boot Rest APIs.<br>
+I am currently working on spring boot project.<br>I am regular solving DSA on Leetcode.
 
 
 ## 🌐 Socials:
